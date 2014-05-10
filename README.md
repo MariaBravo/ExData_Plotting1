@@ -16,9 +16,12 @@
     
     2. The dimensions of the PNG files provided as example are width=504 pixels and height=504 pixels.
     
-    3. These 32-bits depth example files have a transparent background that some PNG viewers render 
+    3. These 32-bit depth example files have a transparent background that some PNG viewers render 
     as black.
 
+    4. The plots reconstructed by these scripts have a transparent background and 32-bit color depth 
+    as the examples provided.
+    
 
 ## Plots reconstructed
    The following four plots (plot1.png, plot2.png, plot3.png and plot4.png) have been produced by the scripts stored in this repository (plot1.R, plot2.R, plot3.R, plot4.R).
