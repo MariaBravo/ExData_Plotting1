@@ -1,7 +1,7 @@
-## Introduction
+## About this assignment
 
- Goal: Examine how household energy usage varies over the period [2007-02-01, 2007-02-02]
- Task: Reconstruct Plot 4 using the base plotting system.
+ Our goal has been examine how household energy usage varies over the period [2007-02-01, 2007-02-02], 
+ by the reconstruction of the four plots given with this assigment instructions and using the base plotting system.
  Assumptions: 
     1. The dataset "Electric power consumption" has been downloaded to the active 
     working directory and has been saved as "household_power_consumption.txt".
