@@ -11,16 +11,16 @@
     2. Packages lubridate and chron has been installed.
 
 ### Notes
-    1. We have been required to reconstruct Plot 4 saving it to a png file with a width of 480 pixels and
+    1. We have been required to reconstruct Plots 1,2,3 and 4 saving them to PNG files with a width of 480 pixels and
     a height of 480 pixels.
     
-    2. The dimensions of the png file provided as example are width=504 pixels and height=504 pixels.
+    2. The dimensions of the PNG files provided as example are width=504 pixels and height=504 pixels.
     
-    3. This 32-bits depth example file has a transparent background that some PNG viewers render as black.
+    3. These 32-bits depth example files have a transparent background that some PNG viewers render as black.
 
 
 ## Plots reconstructed
-   The following four plots has been produced by the scripts stored here.
+   The following four plots (plot1.png, plot2.png, plot3.png and plot4.png) have been produced by the scripts stored in this repository (plot1.R, plot2.R, plot3.R, plot4.R).
    
 ### Plot 1 (plot1.R)
 
