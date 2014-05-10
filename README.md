@@ -8,10 +8,10 @@
     1. The dataset "Electric power consumption" has been downloaded to the active working directory and 
     has been saved as "household_power_consumption.txt".
     
-    2. Packages lubridate and chron has been installed.
+    2. Packages lubridate and chron have been installed.
 
 ### Notes
-    1. We have been required to reconstruct Plots 1,2,3 and 4 saving them to PNG files with a width of 480 pixels and
+    1. We have been required to reconstruct Plots 1,2,3 and 4 save them to PNG files with a width of 480 pixels and
     a height of 480 pixels.
     
     2. The dimensions of the PNG files provided as example are width=504 pixels and height=504 pixels.
