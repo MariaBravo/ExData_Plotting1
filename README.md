@@ -4,8 +4,10 @@
  by the reconstruction of the four plots given with this assignment instructions and using the base plotting system.
  
  Assumptions: 
+ 
     1. The dataset "Electric power consumption" has been downloaded to the active 
     working directory and has been saved as "household_power_consumption.txt".
+    
     2. Packages lubridate and chron has been installed.
 
 ## Notes:
