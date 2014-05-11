@@ -50,7 +50,7 @@ png("plot4.png",width=480,height=480,units="px",
 
 # Setting par
 par(mfrow=c(2,2))   ## 2 plots by row
-par(cex=0.7)        ## reducing plotting text and symbols
+par(cex=0.8)        ## reducing plotting text and symbols
 
 # Creating the first plot 
 with(dat2, plot(DateTime,Global_active_power, pch=NA, 
